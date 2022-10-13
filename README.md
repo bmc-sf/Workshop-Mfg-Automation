@@ -17,8 +17,7 @@ For each exercise:
 
 Optional:
 [Orchestrate Large-Scale Incidents with Flow Orchestration](https://www.platformdemos.com/s/demo/a0g4p000004i5mJAAQ/orchestrate-largescale-incidents-with-flow-orchestration)</br>
-***NOTE:***  [Guide - Start here](https://docs.google.com/presentation/d/19XDMI8JFCNK3hjgxkQtSFR5064rDjYEs8_gfG_IlCq8/edit#slide=id.g143798eb253_0_17)
-Skip 61-81, 99
+***NOTE:***  [Use *this* Guide](https://github.com/bmc-sf/Workshop-Mfg-Automation/blob/main/Workshop%20Flow%20Orchestration%20_Hands-On_%20Campfire.pdf)
 <br/>
 
 

@@ -6,7 +6,7 @@
 
 For each exercise:
 * Open the link in a new tab
-* Click click **Create New Demo Org**
+* Click **Create New Demo Org**
 * Click **Read the Guide**</br>
 ***NOTE:***  Leave the **Salesforce DX Public Deployer** tab **Open** for later use
 <br/>

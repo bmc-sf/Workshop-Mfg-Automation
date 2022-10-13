@@ -15,9 +15,9 @@ For each exercise:
 2. [Empower your Users with Flow in Lightning Apps and Pages](https://www.platformdemos.com/s/demo/a0g4p0000040pD8AAI/empower-your-users-with-flow-in-lightning-apps-and-pages)
 3. [How to Automate Business Processes with Flow Builder](https://www.platformdemos.com/s/demo/a0g4p0000040pCkAAI/how-to-automate-business-processes-with-flow-builder)
 
-Optional:
+Optional:</br>
 [Orchestrate Large-Scale Incidents with Flow Orchestration](https://www.platformdemos.com/s/demo/a0g4p000004i5mJAAQ/orchestrate-largescale-incidents-with-flow-orchestration)</br>
-***NOTE:***  [Use ***this*** Guide](https://github.com/bmc-sf/Workshop-Mfg-Automation/blob/main/Workshop%20Flow%20Orchestration%20_Hands-On_%20Campfire.pdf)
+  ***NOTE:***  [Use ***this*** Guide](https://github.com/bmc-sf/Workshop-Mfg-Automation/blob/main/Workshop%20Flow%20Orchestration%20_Hands-On_%20Campfire.pdf)
 <br/>
 
 

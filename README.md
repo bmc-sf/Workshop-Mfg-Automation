@@ -22,5 +22,6 @@ Optional:
 
 
 <br/><br/><br/>
+------------------------
 [platformdemos.com](https://platformdemos.com)<br/>
 [GitHub](https://github.com/bmc-sf/Workshop-Mfg-Automation)<br/>
